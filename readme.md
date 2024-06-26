@@ -48,9 +48,3 @@ The AlbumManager API is a Java-based backend service designed to support the cre
 ### Usage
 After authenticating and obtaining a JWT token, you can use the provided endpoints to create albums, upload images, and manage your content.
 
-
-
-MIT
-
-This template provides a basic structure for your README file, including sections like overview, key features, technical stack, getting started, usage, contributing, and license. You might need to adjust paths, URLs, and other specific details to match your project's configuration and setup.
-
